@@ -1,1 +1,0 @@
-run.bat strategy.QS1605Real
