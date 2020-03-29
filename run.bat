@@ -9,8 +9,9 @@ goto :end
 :help
 echo Param: run java class
 echo     class list:
-echo     strategy.QS1711.Main
-echo     strategy.QS1801.QS1802T1
+echo     QuantExtend1711.QS1711
+echo     QuantExtend1801.QS1802T1
+echo     QuantExtend2002.RunQEStrategy2002T1
 goto :end
 
 :end  
